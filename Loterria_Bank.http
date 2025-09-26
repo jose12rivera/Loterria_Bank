@@ -1,0 +1,6 @@
+@Loterria_Bank_HostAddress = http://localhost:5277
+
+GET {{Loterria_Bank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
